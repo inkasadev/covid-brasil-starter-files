@@ -1,0 +1,110 @@
+*,
+::before,
+::after {
+	box-sizing: border-box;
+}
+
+/**********************************/
+/* 0. Variáveis
+/* 1. Estilos gerais
+/* 2. Navbar
+/* 3. Loading
+/* 4. Container
+/* 5. State Select
+/* 6. Status
+/* 7. Data Box
+/* 8. Footer
+/**********************************/
+
+/**********************************/
+/* 0. Variáveis
+/**********************************/
+
+[data-theme="light"] {
+	--clr-background:#F5F5F5;
+	--clr-font:#111111;
+    --clr-card:#FEE7E7;
+    --clr-switch-track:#AABBCC;
+    --clr-link:#3333FF;
+
+    --clr-confirmed:#D21212;
+    --clr-deaths:#223344;
+    --clr-vaccinated-1:#0000C7;
+    --clr-vaccinated-2:#117711;
+
+	--ff: "Cairo", sans-serif;
+    --ts-caption: 600 1.8rem/1 var(--ff);
+    --ts-normal-text: 400 1.6rem/1.4 var(--ff);
+    --ts-normal-semibold: 600 1.6rem/1.4 var(--ff);
+
+    --transition: all 0.2s linear;
+    --shadow-card: 5px 5px 30px 0 rgba(51, 51, 51, 20%);
+}
+
+[data-theme="dark"] {
+	--clr-background:#111111;
+	--clr-font:#F5F5F5;
+    --clr-card:#1A1A1A;
+    --clr-switch-track:#AABBCC;
+    --clr-link:#C2C2FF;
+
+    --clr-confirmed:#FF3333;
+    --clr-deaths:#AABBCC;
+    --clr-vaccinated-1:#6666DD;
+    --clr-vaccinated-2:#44BB44;
+    
+	--ff: "Cairo", sans-serif;
+    --ts-caption: 600 1.8rem/1 var(--ff);
+    --ts-normal-text: 400 1.6rem/1.4 var(--ff);
+    --ts-normal-semibold: 600 1.6rem/1.4 var(--ff);
+
+    --transition: all 0.2s linear;
+    --shadow-card: 5px 5px 30px 0 rgba(221, 221, 221, 5%);
+}
+
+/**********************************/
+/* 1. Estilos gerais
+/**********************************/
+
+
+
+/**********************************/
+/* 2. Navbar
+/**********************************/
+
+
+
+/**********************************/
+/* 3. Loading
+/**********************************/
+
+
+
+/**********************************/
+/* 4. Container
+/**********************************/
+
+
+
+/**********************************/
+/* 5. State Select
+/**********************************/
+
+
+
+/**********************************/
+/* 6. Status
+/**********************************/
+
+
+
+/**********************************/
+/* 7. Data Box
+/**********************************/
+
+
+
+/**********************************/
+/* 8. Footer
+/**********************************/
+
