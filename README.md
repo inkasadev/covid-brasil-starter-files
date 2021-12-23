@@ -11,7 +11,7 @@ Em 26 de fevereiro de 2020 se confirmou o primeiro caso do covid19 no Brasil. Um
 Você aprenderá como criar um dashboard responsivo usando esse dados, permitindo que se faça uma análise de dados completos sobre o número de casos confirmados, de mortos e de vacinados no Brasil. Ao aprender como montar dashboard com javascript utilizando os dados da covid19, você poderá depois alterar esse projeto para criar até mesmo outros tipos de painel administrativo (admin dashboard).
 
 - Você pode conferir o resultado final do projeto [clicando aqui](https://covidbrasil.surge.sh/).
-- Assista ao passo a passo (dividido em 16 partes) clicando aqui.
+- Assista ao passo a passo (dividido em 16 partes) [clicando aqui](https://www.youtube.com/playlist?list=PL28O_hEAqjAtrzJJXD7rwqKoovujTpTwX).
 
 ![Preview](/preview.png)
 
